@@ -1,12 +1,24 @@
-# Build and Deploy a Modern YouTube Clone Application in React JS with Material UI 5
+# YouTube Clone
 
-![YouTube](https://i.ibb.co/4R5RkmW/Thumbnail-5.png)
+A simple YouTube clone application that allows users to browse, search, and watch videos. Built with modern web technologies, this project showcases essential features similar to the YouTube platform.
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+## Features
 
-### Showcase your dev skills with practical experience and land the coding career of your dreams
-💻 JS Mastery Pro - https://jsmastery.pro/youtube
-✅ A special YOUTUBE discount code is automatically applied!
+- **Video Browsing**: Browse through a list of videos.
+- **Search Functionality**: Search for videos by title or keywords.
+- **Video Player**: Watch videos in a responsive player.
+- **User Authentication**: Sign up and log in to save favorite videos (if applicable).
+- **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices.
 
-📙 Get the Ultimate Frontend & Backend Development Roadmaps, a Complete JavaScript Cheatsheet, Portfolio Tips, and more - https://www.jsmastery.pro/links
+## Technologies Used
+
+- **Frontend**: React.js, Tailwind CSS
+- **Backend**: Node.js, Express (if applicable)
+- **Database**: MongoDB / Firebase (if applicable)
+- **APIs**: YouTube Data API (or your own video storage solution)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kushmahendra/YouTube-Clone.git
