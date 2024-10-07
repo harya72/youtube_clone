@@ -7,15 +7,12 @@ A simple YouTube clone application that allows users to browse, search, and watc
 - **Video Browsing**: Browse through a list of videos.
 - **Search Functionality**: Search for videos by title or keywords.
 - **Video Player**: Watch videos in a responsive player.
-- **User Authentication**: Sign up and log in to save favorite videos (if applicable).
 - **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices.
 
 ## Technologies Used
 
-- **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express (if applicable)
-- **Database**: MongoDB / Firebase (if applicable)
-- **APIs**: YouTube Data API (or your own video storage solution)
+- **Frontend**: React.js, React-Router-Dom and CSS
+- **APIs**: YouTube Data Rapid API 
 
 ## Installation
 
